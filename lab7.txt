@@ -13,3 +13,9 @@ git add .
 git commit –m “com2”
 7)после этого сливаем изменения в master ветку при помощи 
 git merge master 
+8)создаем удаленный репозиторий и подключаемся git remote add origin https://github.com/khloptsev2202/homework-IT.git
+9)переносим туда обновленное содержимое 
+git push
+10)git add .
+git commit "com3"
+git push
